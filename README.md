@@ -210,8 +210,8 @@ When connected to a conversational layer (e.g., **Vertex AI Agent**, **LangChain
 
 ## 👥 Contributors
 
-| Name | Role | Contribution |
-|------|------|--------------|
+| Name |
+|------|
 | **Chayanika Arora**
 | **Ajay Rahavendar** 
 
