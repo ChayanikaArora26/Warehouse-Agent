@@ -1,5 +1,6 @@
 from google.cloud import bigquery
-from scripts.config import config
+from warehouse_agent_vertex.scripts.config import config
+
 
 client = bigquery.Client(project=config.GCP_PROJECT_ID)
 

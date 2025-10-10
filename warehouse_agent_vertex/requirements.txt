@@ -1,20 +1,27 @@
-pandas
-sqlalchemy
-pybigquery
-google-cloud-bigquery
-google-auth
+# Core dependencies
+pandas==2.2.2
+sqlalchemy==2.0.31
+pybigquery==0.5.0
+google-cloud-bigquery==3.25.0
+google-auth==2.32.0
+google-cloud-aiplatform==1.49.0
+pydantic==1.10.15
 
-google-cloud-aiplatform
-langchain
-langchain-community
-langchain-google-vertexai
+# LangChain & Vertex AI (modern compatible)
+langchain==0.2.16
+langchain-core==0.2.36
+langchain-community==0.2.16
+langchain-google-vertexai==1.0.8
 
-prophet
-mlxtend
+# Forecasting & analytics
+prophet==1.1.5
+mlxtend==0.23.1
 
-fastapi
-uvicorn
-python-dotenv
+# FastAPI backend
+fastapi==0.111.0
+uvicorn==0.30.3
+python-dotenv==1.0.1
 
-apache-airflow
-apache-airflow-providers-google
+# Workflow orchestration (optional)
+apache-airflow==2.10.2
+apache-airflow-providers-google==10.17.0

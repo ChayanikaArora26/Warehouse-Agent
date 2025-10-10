@@ -1,5 +1,6 @@
 from google.cloud import aiplatform
-from scripts.config import config
+from warehouse_agent_vertex.scripts.config import config
+
 
 def init_vertex():
     aiplatform.init(
