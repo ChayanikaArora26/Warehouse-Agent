@@ -12,6 +12,10 @@ It connects to **Google BigQuery** for data, uses **Vertex AI** for predictive r
 Developed collaboratively by **Chayanika Arora** and **Ajay Rahavendar**, the project demonstrates how an **Agentic AI system** can streamline supply chain management through data-driven decision-making.
 
 ---
+## Find the Dataset Here:
+https://www.kaggle.com/datasets/aikinomichi/mega-star-distribution-centre
+
+---
 
 ## 🧠 What the Agent Does
 
